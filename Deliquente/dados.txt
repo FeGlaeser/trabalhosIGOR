@@ -1,0 +1,21 @@
+ 
+Trabalho-EDULIVRE/
+├── lib/                      # JARs ou dependências externas, se estiver usando sem Maven
+├── sql/
+│   ├── create_schema.sql     # Script de criação do banco
+│   └── insert_data.sql       # Script de inserção (caso tenha dados iniciais)
+├── src/
+│   ├── App.java              # Classe principal
+│   ├── db/
+│   │   └── ConnectionFactory.java  # Gerenciador de conexão com o banco
+│   ├── dao/
+│   │   ├── CursoDAO.java     # Operações com a tabela curso
+│   │   ├── UsuarioDAO.java   # Operações com usuário
+│   │   └── MatriculaDAO.java # Matrícula e Conteúdo
+│   ├── model/
+│   │   ├── Curso.java
+│   │   ├── Usuario.java
+│   │   ├── Matricula.java
+│   │   └── Conteudo.java
+├── README.md                 # Explicação, prints, instruções de uso
+└── imagens/                  # Prints de tela para o README
