@@ -1,0 +1,12 @@
+br/edulivre/Main.class
+br/edulivre/model/Matricula.class
+br/edulivre/model/Usuario.class
+br/edulivre/db/EnvLoader.class
+br/edulivre/model/Curso.class
+br/edulivre/dao/MatriculaDAO.class
+br/edulivre/dao/UsuarioDAO.class
+br/edulivre/model/Conteudo.class
+br/edulivre/dao/CursoDAO.class
+br/edulivre/dao/AvaliacaoDAO.class
+br/edulivre/db/ConnectionFactory.class
+br/edulivre/dao/ConteudoDAO.class

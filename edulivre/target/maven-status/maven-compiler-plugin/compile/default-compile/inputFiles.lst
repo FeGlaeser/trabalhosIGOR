@@ -1,0 +1,12 @@
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/model/Conteudo.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/model/Usuario.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/db/EnvLoader.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/db/ConnectionFactory.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/model/Matricula.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/Main.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/dao/UsuarioDAO.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/model/Curso.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/dao/MatriculaDAO.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/dao/AvaliacaoDAO.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/dao/CursoDAO.java
+/home/fernando/Área de trabalho/edulivre/src/main/java/br/edulivre/dao/ConteudoDAO.java
